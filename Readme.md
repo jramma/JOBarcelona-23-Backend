@@ -2,6 +2,10 @@
 
 
 
+https://user-images.githubusercontent.com/107991714/231402432-63608682-2f14-4af9-9c47-4d215b07abe3.mp4
+
+
+
 
 ## Funcionamiento Backend Server (spring-social)
 
