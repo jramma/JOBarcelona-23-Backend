@@ -92,15 +92,13 @@ npm install && npm start
 
 ## Endpoint que muestre todos los usuarios registrados.
 
-	Frontend no creado, de todos modos funciona en POSTMAN.
-	El endpoint es http://localhost:3000/Alluser
-	Aquí lo puedes ver en Java, es un findAll() del repositorio.
+Frontend no creado, de todos modos funciona en POSTMAN.
+El endpoint es http://localhost:3000/Alluser
+Aquí lo puedes ver en Java, es un findAll() del repositorio.
+	
 ![img.png](img.png)
 
 
 ## Endpoint que permita dar "star" a un repositorio.
 
-=======
-```# JOBarcelona-23-Backend
-# JOBarcelona-23-Backend
->>>>>>> 1f0e3881015d11bb52c5498e4ee935a5e0169e78
+In progress...
