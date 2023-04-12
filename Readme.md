@@ -2,6 +2,10 @@
 
 
 
+https://user-images.githubusercontent.com/107991714/231402432-63608682-2f14-4af9-9c47-4d215b07abe3.mp4
+
+
+
 
 ## Funcionamiento Backend Server (spring-social)
 
@@ -82,6 +86,7 @@ Entrar en la carpeta react-social (cd react-social) y ejecutar npm install para 
 ```bash
 cd react-social
 npm install && npm start
+<<<<<<< HEAD
 ```
 
 
@@ -95,3 +100,7 @@ npm install && npm start
 
 ## Endpoint que permita dar "star" a un repositorio.
 
+=======
+```# JOBarcelona-23-Backend
+# JOBarcelona-23-Backend
+>>>>>>> 1f0e3881015d11bb52c5498e4ee935a5e0169e78
