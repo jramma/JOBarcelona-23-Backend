@@ -82,5 +82,16 @@ Entrar en la carpeta react-social (cd react-social) y ejecutar npm install para 
 ```bash
 cd react-social
 npm install && npm start
-```# JOBarcelona-23-Backend
-# JOBarcelona-23-Backend
+```
+
+
+## Endpoint que muestre todos los usuarios registrados.
+
+	Frontend no creado, de todos modos funciona en POSTMAN.
+	El endpoint es http://localhost:3000/Alluser
+	Aquí lo puedes ver en Java, es un findAll() del repositorio.
+![img.png](img.png)
+
+
+## Endpoint que permita dar "star" a un repositorio.
+
