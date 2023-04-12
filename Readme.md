@@ -92,10 +92,12 @@ npm install && npm start
 
 ## Endpoint que muestre todos los usuarios registrados.
 
+
 Frontend no creado, de todos modos funciona en POSTMAN.
 El endpoint es http://localhost:3000/Alluser
 Aquí lo puedes ver en Java, es un findAll() del repositorio.
-	
+
+
 ![img.png](img.png)
 
 
